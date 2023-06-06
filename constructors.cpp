@@ -4,6 +4,7 @@ using namespace std;
 class ostr{
 	char *p;
 	int len;
+	char t;
 	public:
 	ostr(){
 		p=0;
